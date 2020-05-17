@@ -8,7 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://drive.google.com/open?id=1nhWDmM-k8OO4dAJHkQHV8d5FO-T3kcDM
+[Landing Page](https://drive.google.com/open?id=1D29ayoMW2GTFEpg6v5RZndxn5juloUCP)
+[Profile Page](https://drive.google.com/open?id=1any2D_YMm3QkQEE_RBTXUlOrFrh8Loor)
+[Search Page](https://drive.google.com/open?id=1qRLmJEh9oIUfYpyDwXmcCQAV4VPSxU-g)
+
 
 ### Project Tracker
 
